@@ -1,1 +1,7 @@
-tal = int(input("Vad är näst sista siffrand i ditt personnummer?"))
+text = input("Vad är näst sista siffran i ditt personnummer?")
+tal = int(text)
+if tal % 2 == 0:
+    print("du är en tjej")
+else: 
+    print("du är en kille")
+
