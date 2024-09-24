@@ -20,3 +20,8 @@ Gjorde uppgift 2, 3, 4 och 5 på 7050.
 17/9-2024
 ---------
 Gjorde klart 7050 och började på 7060. Stötte på lite problem vid 7060 uppgift 3. 
+
+
+23/9-2024
+---------
+Gjorde uppgift 1-3 på 7061.
