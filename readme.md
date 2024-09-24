@@ -25,3 +25,8 @@ Gjorde klart 7050 och började på 7060. Stötte på lite problem vid 7060 uppgi
 23/9-2024
 ---------
 Gjorde uppgift 1-3 på 7061.
+
+
+24/9-2024
+---------
+Gjorde uppgift 1a, b och c på 7070. 
