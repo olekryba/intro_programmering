@@ -1,6 +1,11 @@
 Aleksander loggbok
 ==================
 
+30/9-2024
+--------
+Jag började med 7073 flödesdiagram. Jag skapade diagrammen med hjälp av lucid.app.
+
+
 27/8-2024
 ---------
 Jag har installerat VS Codium och python.
