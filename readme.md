@@ -1,6 +1,10 @@
 Aleksander loggbok
 ==================
 
+1/10-2024
+---------
+Stötte på stora problem med VS Code som slutade fungera idag, jag var tvungen att ladda ner vs code istället. När jag fick programmet att funka kunde jag göra uppgift 6 på 7073. 
+
 30/9-2024
 --------
 Jag började med 7073 flödesdiagram. Jag skapade diagrammen med hjälp av lucid.app.
