@@ -1,5 +1,9 @@
 Aleksander loggbok
 ==================
+14/10-2024
+----------
+Jag började och gjorde klart kapitel 7095. 
+
 7/10-2024
 ----------
 Gjorde uppgift 7 på 7073.
@@ -7,7 +11,7 @@ Gjorde uppgift 7 på 7073.
 
 1/10-2024
 ---------
-Stötte på stora problem med VS Code som slutade fungera idag, jag var tvungen att ladda ner vs code istället. När jag fick programmet att funka kunde jag göra uppgift 6 på 7073. 
+Stötte på stora problem med VS Codeium som slutade fungera idag, jag var tvungen att ladda ner visual stuido code istället. När jag fick programmet att funka kunde jag göra uppgift 6 på 7073. 
 
 30/9-2024
 --------
