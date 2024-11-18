@@ -1,5 +1,14 @@
 Aleksander loggbok
 ==================
+
+12/11-2024
+----------
+Gjorde upggift 1 och 2 på 7100.
+
+22/10-2024
+----------
+Gjorde 7096 och började läsa 7100. 
+
 14/10-2024
 ----------
 Jag började och gjorde klart kapitel 7095. 
